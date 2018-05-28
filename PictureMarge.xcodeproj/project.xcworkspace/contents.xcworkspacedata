@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:&#x30a2;&#x30d5;&#x309a;&#x30ea;&#x7528;&#x30b5;&#x30f3;&#x30d5;&#x309a;&#x30eb;&#x30a6;&#x30a7;&#x30a2;.JPG">
+   </FileRef>
+   <FileRef
+      location = "self:PictureMarge.xcodeproj">
+   </FileRef>
+</Workspace>
